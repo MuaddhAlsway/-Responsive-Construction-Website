@@ -49,9 +49,6 @@ This project provides a **professional online presence** for construction compan
 
 ---
 
-## 📸 Preview
-
-![Website Screenshot](screenshot.png)
 
 ---
 
