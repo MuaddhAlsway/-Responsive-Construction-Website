@@ -2,7 +2,7 @@
 
 A modern, **responsive construction company website** built with **HTML5**, **CSS3**, and **JavaScript**.  
 
-## 🌐 Live Demo: [🔗 Click Here](https://muaddhalsway.github.io/-Responsive-Construction-Website/)
+##### 🌐 Live Demo: [🔗 Click Here](https://muaddhalsway.github.io/-Responsive-Construction-Website/)
 
 > 📝 **Note:** Feel free to use my project!
 
@@ -73,7 +73,7 @@ cd responsive-construction-website
 - ⚡ Optimize images and animations
 
 
-##📂 Project Structure
+## 📂 Project Structure
 
 ```
 responsive-construction-website/
@@ -86,7 +86,7 @@ responsive-construction-website/
 └── LICENSE            # License file
 ```
 
-##🤝 Connect
+## 🤝 Connect
 
   <a href="https://mail.google.com/mail/muaddhalsway.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -96,6 +96,7 @@ responsive-construction-website/
   </a>
 
 ----
+
 ## 🔗 Link Post :
 <a href="https://www.linkedin.com/posts/muaddh-alsway_webdevelopment-frontenddevelopment-javascript-activity-7368762233566265345-qfLo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
