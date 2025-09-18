@@ -87,3 +87,6 @@ responsive-construction-website/
 🤝 Connect
 
 GitHub: 
+<a href="https://www.linkedin.com/posts/muaddh-alsway_webdevelopment-frontenddevelopment-javascript-activity-7368762233566265345-qfLo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
